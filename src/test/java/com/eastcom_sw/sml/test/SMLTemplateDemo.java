@@ -2,10 +2,10 @@ package com.eastcom_sw.sml.test;
 
 import org.junit.Test;
 
-import com.eastom_sw.sml.core.resolver.Rst;
-import com.eastom_sw.sml.core.resolver.SqlResolvers;
-import com.eastom_sw.sml.model.SMLParams;
-import com.eastom_sw.sml.support.el.JsEl;
+import com.eastcom_sw.sml.core.resolver.Rst;
+import com.eastcom_sw.sml.core.resolver.SqlResolvers;
+import com.eastcom_sw.sml.model.SMLParams;
+import com.eastcom_sw.sml.support.el.JsEl;
 
 
 public class SMLTemplateDemo {

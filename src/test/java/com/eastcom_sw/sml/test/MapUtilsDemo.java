@@ -5,8 +5,8 @@ import java.util.Map;
 
 import org.junit.Test;
 
-import com.eastom_sw.sml.tools.MapUtils;
-import com.eastom_sw.sml.tools.Maps;
+import com.eastcom_sw.sml.tools.MapUtils;
+import com.eastcom_sw.sml.tools.Maps;
 
 public class MapUtilsDemo {
 	List<Map<String,Object>> students=MapUtils.newArrayList();
