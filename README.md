@@ -1,4 +1,4 @@
-# sml
+# sml 
 sql markup language(sql标记语言)
 
 1、mybatis,ibatis书写sql的方便，但调整xml配置文件整体服务需要重新启动
